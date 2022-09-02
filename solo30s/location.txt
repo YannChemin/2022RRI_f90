@@ -1,0 +1,2 @@
+outlet1  34  260
+outlet2  39  220
